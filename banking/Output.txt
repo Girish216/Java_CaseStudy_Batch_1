@@ -1,0 +1,59 @@
+Welcome to Bank!!!
+Enter Username:
+planon
+Enter Password:
+planon123
+Login Successfull
+
+Creating a new Account....
+Enter Account number:
+123456
+Enter Account holder Name:
+girish
+Enter Account type
+savings
+Enter Balance:
+100000
+Account Created Successfully....
+Menu:
+1.Transaction
+2.Print details
+3.Add new Account
+4.Delete an Account
+5.Exit
+Enter your choice:
+1
+
+Enter Transaction Details:
+Enter Account number:
+123456
+Enter type of Transaction:
+w
+Enter Amount:
+2000
+Withdrawal Successfull....
+Updated Account Balance: 98000.0
+Menu:
+1.Transaction
+2.Print details
+3.Add new Account
+4.Delete an Account
+5.Exit
+Enter your choice:
+2
+Enter Account number:
+123456
+
+Bank Account Details:
+Account number: 123456
+Account holder: girish
+Account type: savings
+Balance: 98000.0
+Menu:
+1.Transaction
+2.Print details
+3.Add new Account
+4.Delete an Account
+5.Exit
+Enter your choice:
+5
